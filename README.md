@@ -11,6 +11,6 @@ Dependencies Used:
 
 All dependencies must be installed to run the python file.
 
-Just download the .python file and run it.
+Just download the .python file(skylark.py) and run it.
 
 To test it, download software_dev as well, as it contains the test files.
