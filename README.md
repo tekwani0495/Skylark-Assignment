@@ -9,9 +9,8 @@ Dependencies Used:
 - simplekml
 - pysubs2
 
-All dependencies can be downloaded.
+All dependencies must be installed to run the python file.
 
 Just download the .python file and run it.
 
 To test it, download software_dev as well, as it contains the test files.
-
