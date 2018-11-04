@@ -13,5 +13,5 @@ All dependencies can be downloaded.
 
 Just download the .python file and run it.
 
-If you need to test it, download software_dev as well, as it contains the test files.
+To test it, download software_dev as well, as it contains the test files.
 
